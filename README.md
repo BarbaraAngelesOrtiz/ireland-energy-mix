@@ -82,14 +82,16 @@ Ireland’s energy transition is one of Europe’s most ambitious. I was inspire
 
 [LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
 
-![Status](https://img.shields.io/badge/status-finished-brightgreen) 📅 August 2025
+![Status](https://img.shields.io/badge/status-finished-brightgreen) 📅 September 2025
 
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 
+![Tableau](https://img.shields.io/badge/tableau-3.10-blue)
+
 ## Acknowledgments
 
-<img width="180" height="180" alt="<img width="300" height="168" alt="images" src="https://github.com/user-attachments/assets/b2245196-4d2d-44bc-a1a4-6b8523b616e3" />
-" src="https://github.com/user-attachments/assets/bdfa03bc-d44a-4848-b622-6bac4e2dbc95" />
+<img width="300" height="168" alt="images" src="https://github.com/user-attachments/assets/b2245196-4d2d-44bc-a1a4-6b8523b616e3" />
+
 
 
 
