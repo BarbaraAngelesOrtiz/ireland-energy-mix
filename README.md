@@ -2,6 +2,8 @@
 
 An interactive Tableau dashboard analyzing Ireland’s energy system over the last 20 years. This project explores the country’s energy mix, efficiency, sectoral consumption, and energy trade, providing insights for sustainability, innovation, and a greener future.
 
+(https://youtu.be/Smp_1sBnp0I) 
+
 ---
 
 ## Inspiration
