@@ -7,13 +7,13 @@ An interactive Tableau dashboard analyzing Ireland’s energy system over the la
 
 ---
 
-## Inspiration
+## 💡 Inspiration
 
 Ireland’s energy transition is one of Europe’s most ambitious. I was inspired by the challenge of visualizing how the country balances fossil fuels and renewables, while identifying opportunities for efficiency, innovation, and sustainability.
 
 ---
 
-## What it does
+## ⚡️ What it does
 
 * **Energy Mix:** Shows the evolution of fossil fuels vs. renewable sources.
 * **Efficiency & Losses:** Highlights where energy is lost across the system.
@@ -22,7 +22,7 @@ Ireland’s energy transition is one of Europe’s most ambitious. I was inspire
 
 ---
 
-## How we built it
+## 🚀 How we built it
 
 * Collected historical energy data from SEAI and other open sources.
 * Cleaned and structured the data using Excel, CSVs, and SQL.
@@ -31,7 +31,7 @@ Ireland’s energy transition is one of Europe’s most ambitious. I was inspire
 
 ---
 
-## Challenges we ran into
+## 🛠 Challenges we ran into
 
 * Finding consistent and reliable data across multiple years.
 * Designing dashboards that balance technical detail with accessibility.
@@ -39,7 +39,7 @@ Ireland’s energy transition is one of Europe’s most ambitious. I was inspire
 
 ---
 
-## Accomplishments we’re proud of
+## ⭐️ Accomplishments I am proud of
 
 * Created a clear, interactive tool to track Ireland’s energy efficiency and sustainability.
 * Highlighted progress in reducing fossil fuel dependency and improving efficiency.
@@ -47,7 +47,7 @@ Ireland’s energy transition is one of Europe’s most ambitious. I was inspire
 
 ---
 
-## What we learned
+## 🔍 What we learned
 
 * How to turn complex energy data into actionable, visual insights.
 * The importance of monitoring efficiency and losses in shaping a sustainable energy system.
@@ -55,18 +55,18 @@ Ireland’s energy transition is one of Europe’s most ambitious. I was inspire
 
 ---
 
-## Built With
+## 📝 Built With
 
-* **Tableau** – interactive dashboards
+* **Tableau** –  ![interactive dashboards](https://login.salesforce.com/)
 * **Python (Pandas, NumPy)** – data analysis and transformations
 * **SQL Server** – querying and data validation
 * **Excel / CSV** – data cleaning and preprocessing
 * **Google Sheets** – collaborative data review
-* **SEAI open data** – main data source
+* **SEAI open data** – ![main data source](https://www.seai.ie/)
 
 ---
 
-## What we’d do with more time
+## ⏳ What we’d do with more time
 
 * Integrate **real-time energy data** for live monitoring.
 * Add **predictive analytics** for 2030 and 2050 carbon-neutral targets.
