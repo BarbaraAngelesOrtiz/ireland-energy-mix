@@ -2,7 +2,8 @@
 
 An interactive Tableau dashboard analyzing Ireland’s energy system over the last 20 years. This project explores the country’s energy mix, efficiency, sectoral consumption, and energy trade, providing insights for sustainability, innovation, and a greener future.
 
-(https://youtu.be/Smp_1sBnp0I) 
+🎥 [Watch the project video](https://youtu.be/Smp_1sBnp0I)
+
 
 ---
 
@@ -74,6 +75,23 @@ Ireland’s energy transition is one of Europe’s most ambitious. I was inspire
 
 ---
 
+##Author
+**Bárbara Ángeles Ortiz**
 
-¿Querés que haga eso?
+<img src="https://github.com/user-attachments/assets/30ea0d40-a7a9-4b19-a835-c474b5cc50fb" width="115">
+
+[LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
+
+![Status](https://img.shields.io/badge/status-finished-brightgreen) 📅 August 2025
+
+![Python](https://img.shields.io/badge/python-3.10-blue)
+
+## Acknowledgments
+
+<img width="180" height="180" alt="<img width="300" height="168" alt="images" src="https://github.com/user-attachments/assets/b2245196-4d2d-44bc-a1a4-6b8523b616e3" />
+" src="https://github.com/user-attachments/assets/bdfa03bc-d44a-4848-b622-6bac4e2dbc95" />
+
+
+
+
 
