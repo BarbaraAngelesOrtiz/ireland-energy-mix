@@ -11,6 +11,9 @@ An interactive Tableau dashboard analyzing Ireland’s energy system over the la
 
 Ireland’s energy transition is one of Europe’s most ambitious. I was inspired by the challenge of visualizing how the country balances fossil fuels and renewables, while identifying opportunities for efficiency, innovation, and sustainability.
 
+<img width="1128" height="563" alt="Energy Matrix-1" src="https://github.com/user-attachments/assets/12a35058-00e6-45b7-9e79-1fbc51c78cc0" />
+
+
 ---
 
 ## ⚡️ What it does
@@ -19,6 +22,11 @@ Ireland’s energy transition is one of Europe’s most ambitious. I was inspire
 * **Efficiency & Losses:** Highlights where energy is lost across the system.
 * **Consumption by Sector:** Breaks down energy use in transport, residential, and industry.
 * **Energy Trade:** Reveals Ireland’s dependence on energy imports and trade dynamics.
+  
+<img width="1126" height="768" alt="Energy Matrix-6" src="https://github.com/user-attachments/assets/55fdb4cb-2815-4949-a456-8159f8203c31" />
+<img width="1122" height="565" alt="Efficiency Losses-1" src="https://github.com/user-attachments/assets/6e4a60e0-a1cb-4e6f-9336-4e67b96959c6" />
+<img width="1132" height="719" alt="Energy Trade-2" src="https://github.com/user-attachments/assets/5e137550-6003-414d-90b9-d28f3dac1c84" />
+<img width="1127" height="660" alt="Sectoral use-1" src="https://github.com/user-attachments/assets/4fa50bbe-3c1f-4455-b8ed-f42a1a5fe5d9" />
 
 ---
 
