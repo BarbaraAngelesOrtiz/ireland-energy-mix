@@ -67,7 +67,7 @@ Ireland’s energy transition is one of Europe’s most ambitious. I was inspire
 
 ---
 
-## 🔍 What we learned
+## 🔍 What I learned
 
 * How to turn complex energy data into actionable, visual insights.
 * The importance of monitoring efficiency and losses in shaping a sustainable energy system.
