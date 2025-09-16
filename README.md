@@ -105,7 +105,7 @@ Ireland’s energy transition is one of Europe’s most ambitious. I was inspire
 
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 
-![Tableau](https://img.shields.io/badge/tableau)
+![Tableau](https://img.shields.io/badge/tableau-blue)
 
 ## Acknowledgments
 
