@@ -30,12 +30,24 @@ Ireland’s energy transition is one of Europe’s most ambitious. I was inspire
 
 ---
 
-## 🚀 How we built it
+## 🚀 Technologies and Libraries Used
 
 * Collected historical energy data from SEAI and other open sources.
-* Cleaned and structured the data using Excel, CSVs, and SQL.
+* Cleaned and structured the data using Excel and CSVs .
 * Performed additional data analysis with Python (Pandas, NumPy).
 * Built interactive dashboards in Tableau with filters, trends, and clear visual storytelling.
+
+---
+
+## 📁 Project Structure
+
+```bash
+├── images # Graphics
+├── Energy_Ireland.ipynb #ETL code
+├── energy_1990_2024.csv # Final dataset 
+├── Data_set.xlsx # Original dataset
+├── requirements.txt # Libraries needed to run the project
+```
 
 ---
 
@@ -67,7 +79,6 @@ Ireland’s energy transition is one of Europe’s most ambitious. I was inspire
 
 * **Tableau** –  ![interactive dashboards](https://login.salesforce.com/)
 * **Python (Pandas, NumPy)** – data analysis and transformations
-* **SQL Server** – querying and data validation
 * **Excel / CSV** – data cleaning and preprocessing
 * **Google Sheets** – collaborative data review
 * **SEAI open data** – ![main data source](https://www.seai.ie/)
